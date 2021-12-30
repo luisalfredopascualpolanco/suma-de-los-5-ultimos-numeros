@@ -1,0 +1,7 @@
+D:\Programas\Cursos\C# ya\suma-de-los-5-ultimos-numeros\proyecto10.7\proyecto10.7\bin\Debug\proyecto10.7.exe.config
+D:\Programas\Cursos\C# ya\suma-de-los-5-ultimos-numeros\proyecto10.7\proyecto10.7\bin\Debug\proyecto10.7.exe
+D:\Programas\Cursos\C# ya\suma-de-los-5-ultimos-numeros\proyecto10.7\proyecto10.7\bin\Debug\proyecto10.7.pdb
+D:\Programas\Cursos\C# ya\suma-de-los-5-ultimos-numeros\proyecto10.7\proyecto10.7\obj\Debug\proyecto10.7.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\suma-de-los-5-ultimos-numeros\proyecto10.7\proyecto10.7\obj\Debug\proyecto10.7.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\suma-de-los-5-ultimos-numeros\proyecto10.7\proyecto10.7\obj\Debug\proyecto10.7.exe
+D:\Programas\Cursos\C# ya\suma-de-los-5-ultimos-numeros\proyecto10.7\proyecto10.7\obj\Debug\proyecto10.7.pdb
